@@ -1,4 +1,4 @@
-# project_7_vehicles
+# projecto 7 vehicles
 Análisis de Vehículos Usados con Streamlit  
 
 Esta aplicación web fue desarrollada con Streamlit para analizar un conjunto de datos de anuncios de venta de coches en Estados Unidos.
